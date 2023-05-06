@@ -1,2 +1,5 @@
 org.springframework.boot.SpringApplicationRunListener=\
   com.explore.williams.util.MySpringApplicationRunListener
+
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.explore.williams.autoconfig.MyAutoConfiguration
